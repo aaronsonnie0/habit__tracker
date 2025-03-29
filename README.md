@@ -200,8 +200,8 @@ This project is licensed under the MIT License
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: chrisjaron99@gmail.com
-- **GitHub**: [ZERO2k21](https://github.com/ZERO2k21)
+- **Email**: aaronsonnie@gmail.com
+- **GitHub**:https://github.com/aaronsonnie
 
 ---
 
